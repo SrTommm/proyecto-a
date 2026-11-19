@@ -2,7 +2,7 @@
 
 texto normal
 
-## Encabezzado level 2
+## Encabezado level 2
 
 Texto normal
 
@@ -20,3 +20,8 @@ ejemplo __negrilla__
 * Rojo
 * Amarillo
 * Verde
+
+#lista enumerada
+1. Zelda
+2. Link
+3. Ganondorf
