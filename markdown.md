@@ -9,3 +9,7 @@ Texto normal
 ### Encabezado nivel 3
 
 mas texto normal
+ejemplo _texto en cursiva_
+ejemplo *texto en cursiva*
+ejemplo **negrilla**
+ejemplo __negrilla__
