@@ -14,19 +14,19 @@ ejemplo *texto en cursiva*
 ejemplo **negrilla**
 ejemplo __negrilla__
 
-#viñeta
+# viñeta
 
 * Azul
 * Rojo
 * Amarillo
 * Verde
 
-#lista enumerada
+# lista enumerada
 1. Zelda
 2. Link
 3. Ganondorf
 
-#ejemplo de lista con niveles
+# ejemplo de lista con niveles
 
 * Colores
   * Azul
@@ -36,7 +36,7 @@ ejemplo __negrilla__
   * Perro
   * Gato
 
-#ejemplo checklist
+# ejemplo checklist
 - [X] guion
 - [ ] espacio
 - [X] corchete
@@ -45,11 +45,11 @@ ejemplo __negrilla__
 - [ ] espacio
 - [X] accion
 
-#ejemplo citacion
+# ejemplo citacion
 Tomas dijo:
 > Zelda es goty
 
-#ejemplo  snippets de codigo
+# ejemplo  snippets de codigo
 codigo en python
 ```python
 print("hola tilin")
@@ -59,3 +59,10 @@ powershell
 ```powershell
 Remove-Item -Recurse hola.txt
 ```
+# ejemplo tabla de verdad XOR
+A | B | A XOR B
+--|---|---------
+0 | 0 | 0
+0 | 1 | 1
+1 | 0 | 1
+1 | 1 | 0
