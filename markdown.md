@@ -25,3 +25,13 @@ ejemplo __negrilla__
 1. Zelda
 2. Link
 3. Ganondorf
+
+#ejemplo de lista con niveles
+
+* Colores
+  * Azul
+  * Rojo
+  * Amarillo
+* Animales
+  * Perro
+  * Gato
