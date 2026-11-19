@@ -16,7 +16,7 @@ ejemplo __negrilla__
 
 #viñeta
 
-*Azul
-*Rojo
-*Amarillo
-*Verde
+* Azul
+* Rojo
+* Amarillo
+* Verde
