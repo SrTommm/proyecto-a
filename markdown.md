@@ -48,3 +48,14 @@ ejemplo __negrilla__
 #ejemplo citacion
 Tomas dijo:
 > Zelda es goty
+
+#ejemplo  snippets de codigo
+codigo en python
+```python
+print("hola tilin")
+```
+
+powershell
+```powershell
+Remove-Item -Recurse hola.txt
+```
