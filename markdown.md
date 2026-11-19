@@ -13,3 +13,10 @@ ejemplo _texto en cursiva_
 ejemplo *texto en cursiva*
 ejemplo **negrilla**
 ejemplo __negrilla__
+
+#viñeta
+
+*Azul
+*Rojo
+*Amarillo
+*Verde
