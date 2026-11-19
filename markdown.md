@@ -35,3 +35,12 @@ ejemplo __negrilla__
 * Animales
   * Perro
   * Gato
+
+#ejemplo checklist
+- [X] guion
+- [ ] espacio
+- [X] corchete
+- [ ] espacio
+- [X] corchete
+- [ ] espacio
+- [X] accion
