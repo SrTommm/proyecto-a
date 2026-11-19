@@ -44,3 +44,7 @@ ejemplo __negrilla__
 - [X] corchete
 - [ ] espacio
 - [X] accion
+
+#ejemplo citacion
+Tomas dijo:
+> Zelda es goty
